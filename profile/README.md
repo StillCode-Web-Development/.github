@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
 <h1 align ='center' >StillCode </h1>
 <h2 align ='center' >Codificando o seu estilo...</h2>
 <h3 align ='center' >Seja bem-vindo, a um novo conceito de desenvolvimento web</h3>
@@ -22,4 +24,14 @@
 
 ![image](https://github.com/StillCode-Web-Development/.github/assets/145375098/0142e962-a5ce-404a-9b6f-e987eb0d8179)
 
+</div>
+
+<div align='center'>
+  <h4>Contatos</h4>
+  
+<p>
+<a href="https://www.linkedin.com/in/victor-bdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-batista-dev" height="30" /></a>
+<a href="https://www.instagram.com/still_code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="victor-batista-dev" height="30" width="30" /></a>
+</p> 
+  
 </div>

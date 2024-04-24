@@ -13,7 +13,7 @@
 
 |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=e44c30&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=e44c30&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) |
 |        |      |        |       |      |        |
 
 </div>
